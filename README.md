@@ -1,5 +1,5 @@
 # Indian-Startup-Analysis
-This project is based on a in-depth analysis on the Indian Startups Finding Dataset taken from kaggle.com.From this analysis, I intend to answer questions related to the Indian Startup Ecosystem such as:-
+This project is based on a in-depth analysis on the Indian Startups Finding Dataset taken from kaggle.com.From this analysis, We intend to answer questions related to the Indian Start-ups such as:-
 
 * What is the Quarterly trend in the number of startups funded in the given duration?
 * Which startups got the highest funding? (OR) List the Top 10 startups based on the amount funded to them.
